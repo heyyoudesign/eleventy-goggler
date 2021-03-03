@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "Chi siamo",
+      "url": "/about-us/"
+    },
+    {
+      "text": "Corsi",
+      "url": "/work/"
+    },
+    {
+      "text": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "text": "Contattaci",
+      "url": "/contact/"
+    }
+  ]
+}
