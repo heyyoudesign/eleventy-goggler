@@ -1,7 +1,6 @@
 ---
 title: 'Goggler Club Milano'
-metaDesc: 'A made up agency site that you build if you take Learn
-Eleventy From Scratch, by Piccalilli'
+metaDesc: 'Il club subacqueo più vecchio d'Italia'
 layout: 'layouts/home.html'
 intro:
   eyebrow: "Il club subacqueo più vecchio d'Italia"
