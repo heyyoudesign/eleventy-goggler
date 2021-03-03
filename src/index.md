@@ -1,6 +1,6 @@
 ---
 title: 'Goggler Club Milano'
-metaDesc: 'Il club subacqueo più vecchio d'Italia'
+metaDesc: "Il club subacqueo più vecchio d'Italia"
 layout: 'layouts/home.html'
 intro:
   eyebrow: "Il club subacqueo più vecchio d'Italia"
