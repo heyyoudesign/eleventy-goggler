@@ -9,7 +9,8 @@
 {% set currentUrl = site.url + page.url %}
 
 {% if not socialImage %}
-  {% set socialImage = site.url + '/images/meta/social-share.png' %}
+  {% set socialImage = 'https://res.cloudinary.com/heyyoudesign/image/fetch/w_650,c_limit,f_auto,q_auto:best/https://res.cloudinary.com/heyyoudesign/image/upload/v1614731217/gallery/social-share.png' %}
+  {# set socialImage = site.url + '/images/meta/social-share.png' #}
 {% endif %}
 
 {# If the page’s frontmatter has specific metaTitle and/or metaDesc items, switch 
