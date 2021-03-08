@@ -1,9 +1,9 @@
 ---
-title: "Upside-down Jellyfish"
-author: "Eleonora Barbaccia"
-date: 2020-07-25 06:30:00
----
+title: Upside-down Jellyfish!
+author: Eleonora Barbaccia
+date: 2020-07-25T06:30:00.000+00:00
 
+---
 La medusa Cassiopea, che fa parte della classe degli Scifozoi, è un genere di medusa chiamata anche “medusa a testa in giù” (upside-down jellyfish) per la sua peculiare abitudine di posizionarsi sempre al contrario, quindi con il cappello sul fondale e la bocca e i tentacoli in cima.
 
 Come mai ha questa strana abitudine?
